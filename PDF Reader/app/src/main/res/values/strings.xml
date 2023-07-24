@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PdfReader</string>
+    <string name="show_pdf_from_storage">Show PDF From Storage</string>
+</resources>
